@@ -1,16 +1,15 @@
-# my_token
+# MyToken
 
-A new Flutter project.
+An Innovative and User-friendly Flutter Cryptocurrency Price Tracker App, implementing GetX state management and harnessing the power of the CoinGecko API 
+ {https://www.coingecko.com/en/api}   to deliver real-time cryptocurrency data.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot (134)](https://github.com/Ashut0shGit/MyToken/assets/71293287/17ec5481-1f3c-49fc-9384-14f1544250bc)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
